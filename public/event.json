@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "thumbnail": "https://i.ibb.co.com/hJGkWmSP/headway-F2-KRf-Qf-Cqw-unsplash.jpg",
+      "name": "Future Tech Conference 2025",
+      "category": "Tech",
+      "date": "2025-06-15",
+      "location": "Dhaka Convention Center, Dhaka",
+      "entryFee": "500",
+      "viewMore": "/events/1"
+    },
+    {
+      "id": 2,
+      "thumbnail": "https://i.ibb.co.com/C508tTbC/onur-kurt-5g-IXBr4-XRVc-unsplash.jpg",
+      "name": "Colors of Bangladesh - Art Exhibition",
+      "category": "Art",
+      "date": "2025-06-22",
+      "location": "Shilpakala Academy, Dhaka",
+      "entryFee": "Free",
+      "viewMore": "/events/2"
+    },
+    {
+      "id": 3,
+      "thumbnail": "https://i.ibb.co.com/ZpYMmmsJ/safar-safarov-LKs-Hwgzyk7c-unsplash.jpg",
+      "name": "Web Development Workshop",
+      "category": "Tech",
+      "date": "2025-06-10",
+      "location": "ICT Tower, Dhaka",
+      "entryFee": "300",
+      "viewMore": "/events/3"
+    },
+    {
+      "id": 4,
+      "thumbnail": "https://i.ibb.co.com/BVXH8H1g/andra-c-taylor-jr-t89wen-Hfz-NA-unsplash.jpg",
+      "name": "Summer Beats – Music Night",
+      "category": "Pitha-Utshob",
+      "date": "2025-06-25",
+      "location": "Banani Club, Dhaka",
+      "entryFee": "200",
+      "viewMore": "/events/4"
+    },
+    {
+      "id": 5,
+      "thumbnail": "https://i.ibb.co.com/PshHS3Gx/rosario-fernandes-UT2-K0-QVf-CBE-unsplash.jpg",
+      "name": "Local Sports Day 2025",
+      "category": "Sports",
+      "date": "2025-07-01",
+      "location": "Army Stadium, Dhaka",
+      "entryFee": "100",
+      "viewMore": "/events/5"
+    },
+    {
+      "id": 6,
+      "thumbnail": "https://i.postimg.cc/0jxpz2hM/david-emrich-t2-J6-MXVofl-Y-unsplash.jpg",
+      "name": "Night Market Festival",
+      "category": "Food & Culture",
+      "date": "2025-07-05",
+      "location": "Gulshan Lake Park, Dhaka",
+      "entryFee": "Free",
+      "viewMore": "/events/6"
+    }
+  ]
+  
